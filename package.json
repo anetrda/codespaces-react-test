@@ -1,5 +1,6 @@
 {
   "name": "codespaces-react",
+  "homepage": "https://anetrda.github.io/codespaces-react-test/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
