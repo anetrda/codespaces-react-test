@@ -23,7 +23,14 @@
 }
 
 .heart {
-  color: #ff08ff;
+  color: pink;
+}
+
+p {
+  background-image: linear-gradient(to right, #FF0018,#FFA52C,#FFFF41,#008018,#0000F9,#86007D);
+  background-clip:border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .small {
